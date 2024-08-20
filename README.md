@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Iliess-A github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true%29)
+![Iliess-A github stats](https://github-readme-stats.vercel.app/api?username=Iliess-A&show_icons=true&hide_border=true%29)
 
