@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Iliess Abdelmadjid
 ==========================================================================================================================================
 
-Web developer (mostly backend)
+Web developer ( mostly backend )
 ------------------------------
 
 I've been learning coding for 4 years now, I actually love puzzle and debugging stuff, my dream would be roaming the world and generate money trough working cause yes I love travelling (++ hiking), I would love to travel the world and hike here and there. I am quite passionate with new tech I would love to create something revolutionary but not uselessly revolutionaries more like something that would help people or improve our world ( it's a dream(yes, i dream a lot) but why not, aiming at Mars to fall on the Moon u know. )
